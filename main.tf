@@ -1,4 +1,4 @@
-vresource "aws_s3_bucket" "demo_bucket" {
+resource "aws_s3_bucket" "demo_bucket" {
   bucket = "xyz-test-github-actions"
 }
 
