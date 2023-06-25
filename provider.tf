@@ -4,3 +4,4 @@ terraform {
     key    = "usregion/terraform.tfstate"
     region = var.region
   }
+}
